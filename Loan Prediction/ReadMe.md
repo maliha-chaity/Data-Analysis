@@ -1,1 +1,2 @@
 
+In this loan prediction project, I have made predictions depending on the 4 parameters: Marital Status, Number of Dependents, Education and Applicant Income. By evaluating these four independent variables, I have made predictions about how much loan a person can be given. Then I have printed the Original Loan Amount and the Predicted Loan Amount by the model in a new csv file predict_loan.csv. I have used Multiple Linear Regression for this project. However, other efficient models may provide better results.
