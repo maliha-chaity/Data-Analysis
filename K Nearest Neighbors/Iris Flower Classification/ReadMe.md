@@ -1,1 +1,1 @@
-
+In this project, I have predicted the classes for each Iris flower. The independent variables are sepal_length, sepal_width, petal_length, petal_width and the variable to be predicted is species. I have used K-Nearest Neighbor classifier for this project and this model has produced great results. I have also built a simple confusion matrix and calculated the accuracy score in the end. The K-NN classifier usage has generated 97% accurate results. 
