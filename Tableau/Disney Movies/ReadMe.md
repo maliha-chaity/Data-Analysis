@@ -1,1 +1,1 @@
-
+In this tableau project, I have done some graphical representations in details (movie titles, box office collections, budget, profit/loss, country, language, release day, running time, metascore, IMDB rating and rotten tomato ratings) about Disney movies with the help of the amazing features of tableau. This work is available in this tableau public link: https://public.tableau.com/profile/maliha.momtaz#!/vizhome/DisneyMovies_16147213546350/Dashboard1?publish=yes
