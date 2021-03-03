@@ -1,1 +1,1 @@
-
+In this project, I have represented some details (title, author, language, publisher, publication date, average rating, number of pages, ratings count and text reviews count) about some books graphically with the help of tableau. The graphical representation can be seen in this link: https://public.tableau.com/profile/maliha.momtaz#!/vizhome/GoodReadBooks_16147792481990/GoodReadBooks
