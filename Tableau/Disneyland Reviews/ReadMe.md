@@ -1,1 +1,1 @@
-
+In this tableau project, I have represented the ratings for some Disneyland parks. The dataset could not be uploaded due to large size and it can be found on Kaggle. The name of the dataset is DisneylandReviews.csv on Kaggle. The graphical representation can be found here: https://public.tableau.com/profile/maliha.momtaz#!/vizhome/DisneylandRatings/DisneylandReviewsandRatings
