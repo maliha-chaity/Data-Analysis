@@ -1,1 +1,1 @@
-
+In this project, I have shown sales information for different Walmart stores. The representation can be seen here: https://public.tableau.com/profile/maliha.momtaz#!/vizhome/WalmartStoreSales/WalmartStoreSales
