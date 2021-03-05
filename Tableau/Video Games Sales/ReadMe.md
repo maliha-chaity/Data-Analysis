@@ -1,1 +1,1 @@
-
+In this project, I have showed some general details and sales details of some video games. The representation can be seen here: https://public.tableau.com/profile/maliha.momtaz#!/vizhome/VideoGamesSales_16149045453200/VideoGameSales
