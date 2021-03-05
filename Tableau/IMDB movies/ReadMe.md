@@ -1,1 +1,1 @@
-In this tableau project, I have shown some details information about IMDB movies using tableu. The representation can be seen from this link: https://public.tableau.com/profile/maliha.momtaz#!/vizhome/IMDBmoviedetails/IMDBmoviesdetails
+In this tableau project, I have shown some details information about IMDB movies using tableau. The representation can be seen from this link: https://public.tableau.com/profile/maliha.momtaz#!/vizhome/IMDBmoviedetails/IMDBmoviesdetails
