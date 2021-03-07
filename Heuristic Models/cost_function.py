@@ -2,8 +2,9 @@
 # coding: utf-8
 
 # ### Heuristic Models (Cost Function Extension)
-# Look at the Seattle weather in the **data** folder. Come up with a heuristic model to predict if it will rain today. Keep in mind this is a time series, which means that you 
-# only know what happened historically (before a given date). One example of a heuristic model is: It will rain tomorrow if it rained more than 1 inch (>1.0 PRCP) today. 
+# Look at the Seattle weather in the **data** folder. Come up with a heuristic model to predict if it will rain today. Keep in mind this is a time series dateset, which means 
+# that you only know what happened historically (before a given date). One example of a heuristic model is: It will rain tomorrow if it rained more than 1 inch (>1.0 PRCP) 
+# today. 
 # Describe your heuristic model in the next cell.
 
 # **your model here**  
