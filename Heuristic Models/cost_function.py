@@ -85,7 +85,7 @@ for z in range(numrows):
     heuristic_df.iat[z,3] = False # set guess default to False
     heuristic_df.iat[z,4] = rain_tomorrow
     
-    #example hueristic
+    # if it rains today or rained yesterday, it will rain tomorrow
     if today > 0.0 and yesterday > 0.0:
         heuristic_df.iat[z,3] = True
         
